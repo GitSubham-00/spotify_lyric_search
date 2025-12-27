@@ -171,8 +171,9 @@ data/spotify_lyrics.csv
 
 **Subham Maity**
 
----
 
-## 🏁 Final Notes
+🔗 **GitHub**: https://github.com/GitSubham-00
 
-This project is intended for academic evaluation and demonstrates both deep learning and similarity-based approaches to lyric identification. The focus is on clarity, reproducibility, and practical understanding rather than perfect prediction accuracy.
+🔗 **LinkedIn**: https://linkedin.com/in/subhammaity
+
+If you found this project useful, feel free to star the repository!
